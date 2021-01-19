@@ -1,1 +1,3 @@
-# Getting-and-Cleaning-Data-Course-Project
+# Getting and Cleaning Data Course Project
+<i>For the Data Science Specialization Course</i>
+Author: Silvia
