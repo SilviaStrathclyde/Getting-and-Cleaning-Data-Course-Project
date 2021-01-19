@@ -7,11 +7,12 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
                                                 
 ## Goal of the Project
 1. A tidy data set 
+2. A link to a Github repository with your script for performing the analysis
 3. A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 4. Analysis R Script
 
 ## Review Criteria
-1. The submitted [data set]https://github.com/SilviaStrathclyde/Getting-and-Cleaning-Data-Course-Project/blob/main/TidyData.txt) is tidy. 
+1. The submitted [data set](https://github.com/SilviaStrathclyde/Getting-and-Cleaning-Data-Course-Project/blob/main/TidyData.txt) is tidy. 
 2. The [Github repo](https://github.com/SilviaStrathclyde/Getting-and-Cleaning-Data-Course-Project) contains the required scripts.
 3. GitHub contains a code book that modifies and updates the available [codebooks](https://github.com/SilviaStrathclyde/Getting-and-Cleaning-Data-Course-Project/blob/main/CodeBook.md) with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
 4. The [README](https://github.com/SilviaStrathclyde/Getting-and-Cleaning-Data-Course-Project/blob/main/README.md) that explains the [analysis files](https://github.com/SilviaStrathclyde/Getting-and-Cleaning-Data-Course-Project/blob/main/run_analysis.R) is clear and understandable.
